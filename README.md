@@ -40,9 +40,22 @@ cd Wildlife-alert-system
 
 **Training Performance**
 
-Confusion matrix
 
-Training metrics
+*Confusion matrix:*
+
+![image](https://github.com/user-attachments/assets/3c458f83-e0d2-4621-918c-2db863226aa0)
+
+
+
+
+
+
+
+*Training metrics:*
+
+
+![image](https://github.com/user-attachments/assets/589844ec-ce71-4376-a474-5ebfc86b61a7)
+
 
 
 ## **Inference Output**
